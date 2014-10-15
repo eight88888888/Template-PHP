@@ -1,5 +1,5 @@
 <html>	
-	<head>
+	<head>	<script>var page = "Home"</script>
 		<script src=".js"></script>
 		<link type="text/style">
 		<?php
